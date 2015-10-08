@@ -34,6 +34,7 @@ mydata['github'] = AT + name[0].lower() + \
 
 #################################################
 """ Defining a simple ipython extension """
+import six
 from IPython.core.magic import Magics, magics_class, line_magic, cell_magic
 
 @magics_class
@@ -44,8 +45,8 @@ class HelloWorldMagics(Magics):
     @line_magic
     @cell_magic
     def helloworld(self, line='', cell=None):
-        print("\n\tWho am i\n")
-        for account, value in mydata.iteritems():
+        print("Hello World!\n\tWho am i?\n")
+        for account, value in six.iteritems(mydata):
             print(account + ': ' + value)
         return self.DEFAULT
 
