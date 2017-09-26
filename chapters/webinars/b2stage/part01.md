@@ -5,11 +5,8 @@
 
 Here there is the first part of the transcription for the webinar held 2017, September the 9th for the B2STAGE service I developed.
 
-- Slides in `PDF` format are available on [google drive]()
 - The recording is also accessible on 
 [youtube](https://www.youtube.com/watch?v=6-55uOcqraA)
-
-TODO: try to embed slides
 
 
 ---
