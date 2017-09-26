@@ -19,15 +19,23 @@ Here you may find a few things about me.
 
 Some tools I've written to help:
 
-- The [RAPyDo framework](https://github.com/rapydo)
-- B2STAGE [HTTP API](https://eudat-b2stage.github.io/http-api) inside the [EUDAT Infrastructure](https://eudat.eu/)
-- The [pipeliner](https://bioinformatics.cineca.it)
+- The [RAPyDo](https://github.com/rapydo) open-source framework;
+- An [HTTP API](https://eudat-b2stage.github.io/http-api) application based on *RAPyDo* for the B2STAGE service, inside the [EUDAT Infrastructure](https://eudat.eu/);
+- The [pipeliner](https://bioinformatics.cineca.it) tool for bioinformatics **NGS** datasets analysis;
+
+And more to come.
 
 
 ## Blog & thoughts
 
+<!--
 - `2017/09/19`: [a webinar]() about the EUDAT-B2STAGE HTTP-API
+- `2017/09/20`: EUDAT-B2STAGE HTTP-API: webinar [part 2](webinars/b2stage/part02.md)
+-->
+- `2017/09/19`: EUDAT-B2STAGE HTTP-API: webinar [part 1](webinars/b2stage/part01.md)
 - `2017/08/01`: [self](chapters/self.md) (& [half](chapters/half.md))
+
+I am also in the process of converting the old english blog into static pages, and also translating my original italian one into english posts.
 
 
 ## Teaching
@@ -46,6 +54,7 @@ I am a true *`Pythonista`* and predicate the Python language with the help of `j
 - [docker images](https://hub.docker.com/u/pdonorio)
 - [repositories](https://github.com/pdonorio)
 - [linkedin](https://www.linkedin.com/in/pdonorio/)
+- [Pythonista café](todo)
 
 Or if you want to collaborate - please - [have a coffee with me](https://gitter.im/pdonorio/python-coffee).
 
