@@ -28,7 +28,7 @@ And more to come.
 
 ## Blog & thoughts
 
-- `2017/09/19`: EUDAT-B2STAGE HTTP-API: [webinar](webinars/b2stage/README.md);
+- `2017/09/19`: EUDAT-B2STAGE HTTP-API: [webinar](chapters/webinars/b2stage);
 - `2017/08/01`: [self](chapters/self.md) (& [half](chapters/half.md));
 
 I am also in the process of converting the old english blog into static pages, and also translating my original italian one into english posts.
