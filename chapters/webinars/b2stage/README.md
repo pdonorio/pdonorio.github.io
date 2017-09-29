@@ -10,7 +10,7 @@ We recently recorded a webinar for this project.
 
 The recording is now accessible on [youtube](http://bit.ly/b2stage_webinar):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KkH4oM1pdbE?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KkH4oM1pdbE" frameborder="0" allowfullscreen></iframe>
 
 
 ---
