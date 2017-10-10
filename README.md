@@ -9,9 +9,6 @@ My main goal is to let researchers do easier jobs in manipulating and organizing
 
 Hello, my friend! I am **`Paulie`**. What's up?
 
-Here you may find a few things about me.
-
-
 ---
 
 
@@ -23,15 +20,19 @@ Some tools I've written to help:
 - An [HTTP API](https://eudat-b2stage.github.io/http-api) application based on *RAPyDo* for the B2STAGE service, inside the [EUDAT Infrastructure](https://eudat.eu/);
 - The [pipeliner](https://bioinformatics.cineca.it) tool for bioinformatics **NGS** datasets analysis;
 
-And more to come.
+Recently I also tried to list in the most minimal way [all the (IT) things I've spent my time so far](chapters/things.md). 
 
 
 ## Blog & thoughts
 
 - `2017/09/19`: EUDAT-B2STAGE HTTP-API: [webinar](chapters/webinars/b2stage);
-- `2017/08/01`: [self](chapters/self.md) (& [half](chapters/half.md));
+- `2017/08/01`: a NERD presentation about [myself](chapters/self.md);
 
-I am also in the process of converting the old english blog into static pages, and also translating my original italian one into english posts.
+I just decided to use GitHub as the main professional page.
+Right now I am in the process of:
+
+- converting [the previous blog](https://medium.com/@paolodonorio/latest) into markdown static pages;
+- translating my [original italian pages](https://medium.com/@tempo_pause/latest) into english posts.
 
 
 ## Teaching
@@ -50,7 +51,7 @@ I am a true *`Pythonista`* and predicate the Python language with the help of `j
 - [docker images](https://hub.docker.com/u/pdonorio)
 - [repositories](https://github.com/pdonorio)
 - [linkedin](https://www.linkedin.com/in/pdonorio/)
-- [Pythonista café](todo)
+- [Pythonista café](https://forum.pythonistacafe.com/u/paulie/)
 
 Or if you want to collaborate - please - [have a coffee with me](https://gitter.im/pdonorio/python-coffee).
 
