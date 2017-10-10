@@ -30,8 +30,12 @@ Finally I switched to Python 5 years ago and never looked back.
 
 - Understanding PEPs and best practices
 - RESTful HTTP-API
-    - Flask
     - European data infrastructure
+    - Flask
+        - WSGI
+            + uwsgi
+            + gevent
+            + tornado
     - queues and tasks
         - Celery and RabbitMQ
 - data analytics
@@ -76,15 +80,22 @@ Finally I switched to Python 5 years ago and never looked back.
 ## DevOps
 
 - virtual resources
-    - Openstack
+    + Openstack multi-tenancies
 - containers
-    - Docker images and containers
+    + Docker images and containers
         - Docker Hub
-    - Compose, Machine, Swarm
+    + Compose, Machine, Swarm
 - rancher (*love this one!*)
-    - Containers clusters
-    - Services and stacks
-    - API
+    + Containers clusters
+    + Services and stacks
+    + Custom catalogs
+    + API integration
+- proxy
+    + letsencrypt SSL certificates
+    + nginx
+        * consul
+    + haproxy
+    + traefik
 
 ## Setup of a machine
 
