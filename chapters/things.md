@@ -13,38 +13,53 @@ A short list of things I have spent my time with *as a developer* so far
 
 ## Languages
 
-+ PHP 5
-    - daemons
-    - Object oriented programming
-    - meta programming
-    - pipelines against an HPC cluster
-+ Python 2 & 3
-    - Understanding PEPs and best practices
-    - RESTful HTTP-API
-        - Flask
-        - European data infrastructure
-        - queues and tasks
-            - Celery and RabbitMQ
-    - data analytics
-        - Big Data / MapReduce
-            - mrjob
-            - PySpark
-    - Unittests
-    - Zen of Python
-+ Javascript
-    - Plain (with PHP)
-    - Jquery
-    - Angularjs 1
-+ HTML5 & CSS3
-    - Foundation
-    - Bootstrap
-    - Material Design
+I studied Pascal, BASIC, C/C++ and Java (also ML, Matlab, R) when I was at the university.
+
+But then I started working in real life directly with *web development* somewhere 15 years ago.
+
+Finally I switched to Python 5 years ago and never looked back.
+
+### PHP 5
+
+- daemons
+- Object oriented programming
+- meta programming
+- pipelines against an HPC cluster
+
+### Python 2 & 3
+
+- Understanding PEPs and best practices
+- RESTful HTTP-API
+    - Flask
+    - European data infrastructure
+    - queues and tasks
+        - Celery and RabbitMQ
+- data analytics
+    - Big Data / MapReduce
+        - mrjob
+        - PySpark
+- Unittests
+- Zen of Python
+
+### Javascript
+
+- Plain (with PHP)
+- Jquery
+- Angularjs 1
+
+### HTML5 & CSS3
+
+- Plain
+- CSS Frameworks
+    + Foundation
+    + Bootstrap
+    + Material Design
 
 ## Learning
 
-- Find and test new technologies
-- Kindle and Packt
-- PythonistaCafé
+- Daily look/find and quickly test new technologies
+- Read Packt books/PDF on an old Kindle
+- PythonistaCafé (private) forum
 
 ##  Teaching
 
