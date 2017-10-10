@@ -3,11 +3,10 @@
 
 # Me
 
-I work as a *software architecture* with complex engineering of the middleware layer in High-Performance Computing systems.
-
-My main goal is to let researchers do easier jobs in manipulating and organizing science datasets.
-
 Hello, my friend! I am **`Paulie`**. What's up?
+
+I work as a *software architecture*, engineering upon the middleware layer inside High-Performance Computing systems. Currently my main job is to let researchers do an easier work in manipulating, organizing and analizing datasets from any science field.
+
 
 ---
 
