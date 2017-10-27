@@ -8,7 +8,7 @@ There are some new interesting changes for the `HTTP-API` of the `B2STAGE` servi
 ## The most important milestone
 
 First of all we can now share a great announcement:
-The HTTP-API stable version [has just been released]().
+The HTTP-API stable version [has just been released](https://github.com/EUDAT-B2STAGE/http-api/releases/tag/1.0.0).
 
 We reached the most important milestone we had, so finally `1.0.0` is out!
 

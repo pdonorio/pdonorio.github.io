@@ -9,7 +9,7 @@ I've tryied to link some related own existing code on all keywords to describe t
 - [MySQL](https://github.com/pdonorio/ipymagics/blob/master/sql.ipy#L57-L63), [Postgresql](), [Sqllite](https://gist.github.com/pdonorio/b13ef65eba7defaad0fbf2a7e45aedb5#file-sqlock-py-L20-L32)
 - [Elasticsearch](https://github.com/pdonorio/rest-mock/blob/584a4f7745162cdaefb535cdeec03adf6dbaeb13/restapi/resources/services/elastic.py#L131-L146)
 - [Rethinkdb](https://www.reddit.com/r/rethinkdb/comments/55u2c2/what_is_the_best_way_if_any_to_use_rethinkdb/) (with [*changefeeds*](http://nbviewer.jupyter.org/format/slides/urls/gitlab.hpc.cineca.it/training/data/raw/scientificpy/material/2016/day03/02_03%20Rethink%20db.ipynb#/) !!)
-- Graphdb [neo4j](https://bit.ly/parco17-donorio)
+- [Graph](https://github.com/pdonorio/irods2graph#data-objects-mapped-to-graph-db) database [neo4j](https://bit.ly/parco17-donorio)
 - [MongoDB](https://github.com/rapydo/http-api/blob/master/restapi/flask_ext/flask_mongo.py)
 
 ## Languages
@@ -72,11 +72,15 @@ Finally I switched to Python 5 years ago and never looked back.
     + Data analytics
     + Python and his Zen
     + Life of a researcher (for High Schools)
+- Go to meetings or congresses all around Europe
+    + Make presentations about my work
+    + Give [a talk in streaming](https://www.youtube.com/watch?v=SaW_s1Y9e7Q) about my Python experiments
 
 ## Opensource
 
 - [use](https://github.com/aeroxis/sultan/issues/43) opensource libraries as much as possible and [collaborate](https://github.com/irods/python-irodsclient/pull/61) to help them grow
 - [write](https://github.com/rapydo/issues#status) opensource libraries
+- also trying to write [some real documentation](https://rapydo.gitbooks.io/rapydo/content/)
 
 ## DevOps
 

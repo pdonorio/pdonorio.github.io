@@ -24,6 +24,7 @@ Recently I also tried to list in the most minimal way [all the (IT) things I've 
 
 ## Blog & thoughts
 
+- `2017/09/19`: EUDAT [developer meeting](chapters/helsinki17.md) and first stable release;
 - `2017/09/19`: EUDAT-B2STAGE HTTP-API: [webinar](chapters/webinars/b2stage);
 - `2017/08/01`: a NERD presentation about [myself](chapters/self.md);
 
