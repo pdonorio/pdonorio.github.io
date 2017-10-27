@@ -14,7 +14,7 @@ We reached the most important milestone we had, so finally `1.0.0` is out!
 
 We took the chance of the past meeting to present the current results and to refine some final decisions; now we feel we are ready to go to production and I'm glad we made it so far.
 
-## What's next
+## What's next
 
 Now that the code is stable we are planning how to roll over the existing EUDAT `B2SAFE` instances across Europe data centres.
 
