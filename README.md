@@ -51,11 +51,12 @@ I am a true *`Pythonista`* and predicate the Python language with the help of `j
 - [docker images](https://hub.docker.com/u/pdonorio)
 - [repositories](https://github.com/pdonorio)
 - [linkedin](https://www.linkedin.com/in/pdonorio/)
-- [Pythonista café](https://forum.pythonistacafe.com/u/paulie/)
+- [Papers](https://scholar.google.it/citations?user=eR_gQ-QAAAAJ&hl=en&oi=sra)
+- ~~[Pythonista café](https://forum.pythonistacafe.com/u/paulie/)~~
 
 Or if you want to collaborate - please - [have a coffee with me](https://gitter.im/pdonorio/python-coffee).
 
 
 ---
 
-Bye!
+See you soon `;)`
