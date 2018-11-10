@@ -3,9 +3,11 @@
 
 # Me
 
-Hello, my friend! I am **`Paulie`**. What's up?
+Hello, my friend! I am **`Paolo`**; my most-used-nickname is `paulie`. 
 
-I work as a *software architecture*, engineering upon the middleware layer inside High-Performance Computing systems. Currently my main job is to let researchers do an easier work in manipulating, organizing and analizing datasets from any science field.
+I love engineering *software architectures*, expecially middleware layers and help coordinate development upon those scalable systems. 
+
+Make sure you get to follow my current journey at [Proof](https://proofmedia.io/), where we're trying hard to "bring trust back to the crowd", it's really something big :)
 
 
 ---
@@ -13,26 +15,13 @@ I work as a *software architecture*, engineering upon the middleware layer insid
 
 ## Projects
 
-Some tools I've written to help:
+Some tools I've written to help in the past:
 
 - The [RAPyDo](https://github.com/rapydo) open-source framework;
-- An [HTTP API](https://eudat-b2stage.github.io/http-api) application based on *RAPyDo* for the B2STAGE service, inside the [EUDAT Infrastructure](https://eudat.eu/);
+- The [HTTP API](https://eudat-b2stage.github.io/http-api) application (based on *RAPyDo*) for the B2STAGE service, inside the [EUDAT Infrastructure](https://eudat.eu/);
 - The [pipeliner](https://bioinformatics.cineca.it) tool for bioinformatics **NGS** datasets analysis;
 
-Recently I also tried to list in the most minimal way [all the (IT) things I've spent my time so far](chapters/things.md). 
-
-
-## Blog & thoughts
-
-- `2017/10/27`: EUDAT [developer meeting](chapters/helsinki17.md) and first stable release;
-- `2017/09/19`: EUDAT-B2STAGE HTTP-API: [webinar](chapters/webinars/b2stage);
-- `2017/08/01`: a NERD presentation about [myself](chapters/self.md);
-
-I just decided to use GitHub as the main professional page.
-Right now I am in the process of:
-
-- converting [the previous blog](https://medium.com/@paolodonorio/latest) into markdown static pages;
-- translating my [original italian pages](https://medium.com/@tempo_pause/latest) into english posts.
+I've also tried to list in the most minimal way [all the (IT) things I've spent my time so far](chapters/things.md). 
 
 
 ## Teaching
@@ -45,18 +34,31 @@ I am a true *`Pythonista`* and predicate the Python language with the help of `j
 - An italian course to teach Python with Notebooks [for high-school students](http://j.mp/2hcG3Iw).
 
 
-## Social links
+## Blog & thoughts
+
+- `2017/10/27`: EUDAT [developer meeting](chapters/helsinki17.md) and first stable release;
+- `2017/09/19`: EUDAT-B2STAGE HTTP-API: [webinar](chapters/webinars/b2stage);
+- `2017/08/01`: a NERD presentation about [myself](chapters/self.md);
+
+I am also in the process of:
+
+- converting [the previous blog](https://medium.com/@paolodonorio/latest) into markdown static pages;
+- translating my [original italian pages](https://medium.com/@tempo_pause/latest) into english posts.
+
+
+## Other social links
 
 - [twitter](https://twitter.com/paolodonorio)
-- [docker images](https://hub.docker.com/u/pdonorio)
-- [repositories](https://github.com/pdonorio)
 - [linkedin](https://www.linkedin.com/in/pdonorio/)
 - [Papers](https://scholar.google.it/citations?user=eR_gQ-QAAAAJ&hl=en&oi=sra)
-- ~~[Pythonista café](https://forum.pythonistacafe.com/u/paulie/)~~
+- [repositories](https://github.com/pdonorio)
+- [docker images](https://hub.docker.com/u/pdonorio)
 
 Or if you want to collaborate - please - [have a coffee with me](https://gitter.im/pdonorio/python-coffee).
 
 
 ---
+
+Thanks for reading!
 
 See you soon `;)`
